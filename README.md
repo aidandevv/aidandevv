@@ -1,6 +1,8 @@
 # 💫 About Me:
 
-<div style="font-size:75px;">Hi there! 👋🏻</div> <span style="font-size:40px">I'm Aidan.</span><br><br><span style="font-size:20px">🎓 I'm a second-year Computer Science major at <a href="https://cs.ucdavis.edu/">UC Davis</a> with a Technology Management minor.
+### Hi there! 👋🏻
+#### I'm Aidan.
+<span style="font-size:20px">🎓 I'm a second-year Computer Science major at <a href="https://cs.ucdavis.edu/">UC Davis</a> with a Technology Management minor.
     <br><br>🚀 I’m currently working with CodeLab, an on-campus organization, to develop and deploy a full-stack MERN mobile app to streamline students' dining options on campus and provide an easy and convenient way to find on-campus meals to meet dietary needs.<br><br>🤝🏻 I’m looking to collaborate on projects focused on uplifting groups traditionally overlooked by mainstream tech trends.<br><br>📈 I’m currently learning Ruby and Rails to expand my web development horizons.
     <br></span>
 
@@ -39,7 +41,7 @@
 
 # 📊 Some GitHub Stats:
 
-<span style="opacity:0">.</span><p align="center">
+<p align="center">
 ![](https://github-readme-stats.vercel.app/api?username=aidandevv&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aidandevv&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aidandevv&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
