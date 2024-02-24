@@ -41,8 +41,8 @@
 
 # 📊 Some GitHub Stats:
 
-<p align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=aidandevv&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=aidandevv&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aidandevv&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aidandevv&theme=chartreuse-dark&hide_border=false)<br/><p align="center">
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aidandevv&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</p>
+
