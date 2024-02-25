@@ -7,10 +7,9 @@
 <hr>
 <b>📈 What I’m learning</b>
 <ul>
-  <li>Ruby and Rails to expand my web development horizons.</li>
-  <li></li>
+  <li><b>Ruby and Rails</b> to expand my web development horizons.</li>
+  <li><b>PostgreSQL</b> to elevate my ability to manage data across dynamic and complex applications.</li>
 </ul>
-<hr>
 <b>👨🏻‍🍳 What I'm creating:</b>
 <ul>
   <li><!--🫂--> <b>Fathership</b>, a space for those without a father figure in their lives to access resources and ask the questions they may have, but can't ask.</li>
