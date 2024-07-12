@@ -1,8 +1,8 @@
 # <p align="center">Hi there! I'm Aidan — nice to meet you 👋🏻</p>
 # 💫 About Me:
 
-<span style="font-size:20px">🎓 I'm a **second-year Computer Science major** at <a href="https://cs.ucdavis.edu/">UC Davis</a> with a Technology Management minor.
-<br><br>🚀 **I’m currently working with** <a href="https://www.codelabdavis.com/">CodeLab</a>, an on-campus organization, to full-stack develop and deploy a MERN mobile app to streamline students' dining options on campus and provide an easy and convenient way to find on-campus meals to meet dietary needs.
+<span style="font-size:20px">🎓 I'm a **third-year Computer Science major** at <a href="https://cs.ucdavis.edu/">UC Davis</a> with a Technology Management minor.
+<br><br>🚀 **I’m currently working with** <a href="https://www.codelabdavis.com/">CodeLab</a>, an on-campus organization, as a Software Education Lead to develop and deploy a comprehensive Software and Project Management boot camp to prepare incoming members for professional-level development with industry partners. Modules range from introductory lessons on JavaScript frameworks to API Design and AI/ML concepts.
 <br><br>🤝🏻 **I’m looking to collaborate** on projects focused on uplifting groups traditionally overlooked by mainstream tech trends.
 <hr>
 <b>📈 What I’m learning</b>
@@ -12,8 +12,8 @@
 </ul>
 <b>👨🏻‍🍳 What I'm creating:</b>
 <ul>
-  <li><!--🫂--> <b>Fathership</b>, a space for those without a father figure in their lives to access resources and get help with the questions they may have, but can't ask.</li>
-  <li><!--👨‍💻👩‍💻--><b>CollegeCoders</b>, a platform for college students to easily connect with and tutor those seeking help with technical skills. <em>A service by students, for students.</em></li>
+  <li><!--🫂--> <b>Fathership</b>, a space for those without a father figure in their lives to access resources and get help with the questions they may have, but can't ask. Built with Ruby on Rails, PostgreSQL, Tailwind CSS, and coffee☕</li>
+  <li><!--👨‍💻👩‍💻--><b>CollegeCoders</b>, a platform for college students to easily connect with and tutor those seeking help with technical skills. <em>A service by students, for students. Built on Flutter, making it accessible to iOS, Android, and web users.</em></li>
 </ul>
 <br></span>
 
