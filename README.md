@@ -12,7 +12,7 @@
 </ul>
 <b>👨🏻‍🍳 What I'm creating:</b>
 <ul>
-  <li><!--🫂--> <b>Fathership</b>, a space for those without a father figure in their lives to access resources and get help with the questions they may have, but can't ask. Built with Ruby on Rails, PostgreSQL, Tailwind CSS, and coffee☕</li>
+  <li><!--🫂--> <b><a href="https://fathership.dev/">Fathership</a></b>, a space for those without a father figure in their lives to access resources and get help with the questions they may have, but can't ask. Built with Ruby on Rails, PostgreSQL, Tailwind CSS, and coffee ☕.</li>
   <li><!--👨‍💻👩‍💻--><b>CollegeCoders</b>, a platform for college students to easily connect with and tutor those seeking help with technical skills. <em>A service by students, for students. Built on Flutter, making it accessible to iOS, Android, and web users.</em></li>
 </ul>
 <br></span>
